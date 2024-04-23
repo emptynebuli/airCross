@@ -5,6 +5,9 @@
   <h1 align="center">airCross - SFA for VMWare AirWatch</h1>
 </p>
 
+> [!NOTE]  
+> This code is depricated in favor of [Dauthi](https://github.com/emptynebuli/dauthi).
+
 # Description
 **airCross** is a communication framework for navigating the various WMWare AirWatch authentication endpoints, allowing for enumeration and single-factor authentication attacks.
 
